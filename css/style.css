@@ -1,0 +1,11 @@
+.header, .hero, .body, .bar, .footer {
+    background-color: pink;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+
+.box {
+    min-height: 80px;
+    border: 3px solid green;
+    background-color: skyblue;
+}
